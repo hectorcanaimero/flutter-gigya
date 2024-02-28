@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="google_client_id">GOOGLE-CLIENT-ID-HERE(WEB)</string>
+    <string name="facebook_app_id">FACEBOOK-APP-ID-HERE</string>
+    <string name="facebook_client_token">FACEBOOK-CLIENT-TOKEN-HERE</string>
+
+</resources>
